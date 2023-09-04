@@ -46,9 +46,9 @@ On the other hand, the AnnotationsDag operates in a slightly different manner. U
 ## Installation
 
 ### Docker images
-extended_airflow:1.0 : built using the Dockerfile with the command: "docker build -t extended_airflow:1.0 ."
-minio/minio:latest
-postgres:13
+1. extended_airflow:1.0 : built using the Dockerfile with the command: "docker build -t extended_airflow:1.0 ."
+2. minio/minio:latest
+3.postgres:13
 ### Required librairies
 The required libraries are listed in the 'requirements.txt' file in the requirements folder.
 ### Steps
